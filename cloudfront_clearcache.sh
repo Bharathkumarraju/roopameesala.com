@@ -2,4 +2,4 @@
 
 aws cloudfront list-distributions --profile bharathraju
 
-aws cloudfront create-invalidation --distribution-id=E1YYMBUH8BLLGN --paths / --profile bharathraju
+aws cloudfront create-invalidation --distribution-id=E1F9G0YTRFN8OO --paths / --profile bharathraju
